@@ -2,7 +2,7 @@
   "extends": [
     "config:base"
   ],
-  "prhourlylimit": 100,
+  "prHourlyLimit": 100,
   "renovateFork": true,
   "includeForks": true
 }
