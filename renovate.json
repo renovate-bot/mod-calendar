@@ -3,5 +3,6 @@
     "config:base"
   ],
   "prhourlylimit": 100,
-  "renovateFork": true
+  "renovateFork": true,
+  "includeForks": true
 }
